@@ -41,10 +41,10 @@ public class Users {
     this.age = age;
   }
 
-  public void text(){
-    int i = 0;
-    i++;
-    System.out.println(i);
-  }
+    public void text(){
+        int i = 0;
+        i++;
+        System.out.println(i);
+    }
 
 }
