@@ -40,4 +40,11 @@ public class Users {
   public void setAge(Integer age) {
     this.age = age;
   }
+
+  public void text(){
+    int i = 0;
+    i++;
+    System.out.println(i);
+  }
+
 }
